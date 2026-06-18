@@ -1,0 +1,8 @@
+{
+  "site_name": "日韩精选影片",
+  "parsed_movies": 2000,
+  "category_pages": 8,
+  "detail_pages": 2000,
+  "video_sources": 20,
+  "cover_policy": "top-level 1.jpg to 150.jpg are referenced; place them beside index.html"
+}

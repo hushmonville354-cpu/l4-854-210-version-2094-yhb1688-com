@@ -1,0 +1,26 @@
+{
+  "movie_count": 2000,
+  "category_count": 12,
+  "category_distribution": {
+    "guochan-hd": 167,
+    "movie-library": 167,
+    "drama-picks": 167,
+    "action-crime": 167,
+    "romance-youth": 167,
+    "suspense-thriller": 167,
+    "horror-fantasy": 167,
+    "comedy-family": 167,
+    "sci-fi-adventure": 166,
+    "history-war": 166,
+    "animation-music": 166,
+    "global-selection": 166
+  },
+  "detail_page_count": 2000,
+  "html_page_count": 2017,
+  "category_covered_count": 2000,
+  "missing_baidu_count": 0,
+  "missing_logo_count": 0,
+  "image_files_in_output_count": 0,
+  "all_details_exist": true,
+  "all_movies_in_categories": true
+}
